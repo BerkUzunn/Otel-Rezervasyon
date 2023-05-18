@@ -1,0 +1,40 @@
+Projede Code First kullanıcaz
+
+
+--ENTITY LAYER--
+
+Bu katmanda entitylertanımlanacak
+
+SQL de table olarak tutlanlar C# da class olarak tutulur
+
+SQL de Cloumn olarak tutlnalar C# da Property olarak tutulur
+
+
+
+
+--DATA ACSESS LAYER--
+
+Bu katmanda veri tabanı CRUD işlemleri için alt yapı hazırlanacak
+
+--BUSNINESS LAYER--
+
+Validasyonların kontrolü
+
+Örneğin Fiyat mutlak sayısal bir değer olmalıdır.
+
+Veri tabanında CRUD işlemleri yaparken bu işlemlerin 
+geçerliliğini sorgulamak için Businees katmanına ihtayicımız var
+
+--PRESENTATION LAYER----
+
+Sunum katmanı Controller backend kodlraı ve projenin UI kısmı bu katmanda yer alır.
+
+
+--KATMANLARARSI REFERANS---
+DataLayer' a EntityLayerdan 
+BusinessLayer' a Data ve EntityLAyerlardan
+UI a Businees, Data ve Entity  katmlarından referans verildi
+
+
+***User tabloları için identity packageslerini yükledik.
+Identity kütüphanesi sayesinde sql tablolar otomatik olarak geldi

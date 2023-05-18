@@ -1,0 +1,14 @@
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Berk\Desktop\TravelRezervasion\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
